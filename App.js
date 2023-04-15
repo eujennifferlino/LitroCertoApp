@@ -110,7 +110,6 @@ const styles = StyleSheet.create({
   result:{
     fontSize:28,
     fontWeight:'bold',
-    color:'#F3F9FF',
     margin:18,
     textAlign:'center'
   },
